@@ -1,0 +1,1 @@
+To compile gcc -o main main.c -Wall -pthread
